@@ -1,9 +1,9 @@
-package com.idzivinskyi;
+package com.portfolio;
 
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
-import com.idzivinskyi.module.AppModule;
+import com.portfolio.module.AppModule;
 import org.eclipse.jetty.server.Server;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

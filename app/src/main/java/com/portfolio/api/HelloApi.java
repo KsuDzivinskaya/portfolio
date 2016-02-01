@@ -1,4 +1,4 @@
-package com.idzivinskyi.api;
+package com.portfolio.api;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;

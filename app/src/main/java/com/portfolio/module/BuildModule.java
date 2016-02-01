@@ -1,4 +1,4 @@
-package com.idzivinskyi.module;
+package com.portfolio.module;
 
 
 import com.google.inject.AbstractModule;

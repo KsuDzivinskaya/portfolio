@@ -1,6 +1,6 @@
-package com.idzivinskyi.server;
+package com.portfolio.server;
 
-import com.idzivinskyi.api.HelloApi;
+import com.portfolio.api.HelloApi;
 
 public class HelloRestService implements HelloApi {
 

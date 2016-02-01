@@ -1,8 +1,8 @@
-package com.idzivinskyi.module;
+package com.portfolio.module;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Singleton;
-import com.idzivinskyi.server.jetty.HttpServer;
+import com.portfolio.server.jetty.HttpServer;
 import org.eclipse.jetty.server.Server;
 
 public class ServerModule extends AbstractModule {

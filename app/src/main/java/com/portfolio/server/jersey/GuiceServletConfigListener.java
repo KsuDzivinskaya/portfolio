@@ -1,4 +1,4 @@
-package com.idzivinskyi.server.jersey;
+package com.portfolio.server.jersey;
 
 import com.google.inject.Inject;
 import com.google.inject.Injector;

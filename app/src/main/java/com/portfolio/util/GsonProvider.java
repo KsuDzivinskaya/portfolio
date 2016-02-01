@@ -1,4 +1,4 @@
-package com.idzivinskyi.util;
+package com.portfolio.util;
 
 import com.google.gson.Gson;
 

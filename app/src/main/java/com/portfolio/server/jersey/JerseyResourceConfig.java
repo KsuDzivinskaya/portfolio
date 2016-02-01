@@ -1,10 +1,10 @@
-package com.idzivinskyi.server.jersey;
+package com.portfolio.server.jersey;
 
 import com.google.gson.Gson;
 import com.google.inject.Injector;
 
-import com.idzivinskyi.server.HelloRestService;
-import com.idzivinskyi.util.GsonProvider;
+import com.portfolio.server.HelloRestService;
+import com.portfolio.util.GsonProvider;
 import org.glassfish.hk2.api.ServiceLocator;
 import org.glassfish.jersey.filter.LoggingFilter;
 import org.glassfish.jersey.server.ResourceConfig;

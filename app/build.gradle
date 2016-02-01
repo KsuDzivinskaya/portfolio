@@ -1,5 +1,5 @@
 project(':app') {
-    mainClassName = 'com.idzivinskyi.Main'
+    mainClassName = 'com.portfolio.Main'
 
     dependencies {
         compile "com.google.inject:guice:$guiceVersion"

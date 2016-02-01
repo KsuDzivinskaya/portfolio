@@ -1,5 +1,5 @@
 
-package com.idzivinskyi.server.jetty;
+package com.portfolio.server.jetty;
 
 import com.google.inject.Inject;
 import com.google.inject.Injector;
@@ -7,8 +7,8 @@ import com.google.inject.Provider;
 import com.google.inject.Singleton;
 import com.google.inject.name.Named;
 import com.google.inject.servlet.GuiceFilter;
-import com.idzivinskyi.server.jersey.GuiceServletConfigListener;
-import com.idzivinskyi.server.jersey.JerseyResourceConfig;
+import com.portfolio.server.jersey.GuiceServletConfigListener;
+import com.portfolio.server.jersey.JerseyResourceConfig;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.ServerConnector;
