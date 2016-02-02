@@ -106,14 +106,14 @@ header .sticky-nav.stuck {
 header #logo {
     color: #FFFFFF;
     float: left;
-    padding: 20px 0;
+    /*padding: 20px 0;*/
     margin-left: 20px;
 }
 
 header #logo a {
     background: url(../img/logo.png) no-repeat;
     width: 96px;
-    height: 30px;
+    height: 40px;
     text-indent: -9999px;
     display: block;
     opacity: 1;
@@ -136,7 +136,7 @@ nav#menu {
 }
 
 nav#menu #menu-nav {
-    margin: 0;
+    margin-right: 20px;
     padding: 0;
 }
 
@@ -339,22 +339,7 @@ nav#menu #menu-nav li a:hover {
     content: '\e004';
 }
 
-/* Demo links
 
-.codrops-demos {
-	margin: 2em 0 0;
-}
-
-.codrops-demos a {
-	display: inline-block;
-	margin: 0 .5em;
-}
-
-.codrops-demos a.current-demo {
-	font-weight: bold;
-	color: #3b393d;
-}
-*/
 /* Content */
 
 .content {
