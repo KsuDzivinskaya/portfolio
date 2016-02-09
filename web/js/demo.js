@@ -133,6 +133,8 @@ var demo = (function(window, undefined) {
     // Prevent when card already open and user click on image.
     if (card.isOpen && isOpenClick) return;
 
+    jQuery('body').scrollTo('#work');
+
     // Create timeline for the whole sequence.
     var sequence = new TimelineLite({paused: true});
 
