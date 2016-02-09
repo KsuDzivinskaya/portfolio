@@ -12,7 +12,9 @@
 	height: 500px;
 	width: 100%;
 	overflow: hidden;
-	background: #ddd;
+/*	background: #ddd;*/
+background: url(../img/11.jpg) repeat-x;
+background-blend-mode: darken;
 	color: #333;
 }
 
