@@ -58,13 +58,13 @@ body.body--hidden .content--related {
 
 a {
     text-decoration: none;
-    color: #ff6d00;
+    color: #ff5722;
     outline: none;
 }
 
 a:hover,
 a:focus {
-    color: #e65100;
+    color: #bf360c;
 }
 
 .hidden {
@@ -161,7 +161,7 @@ nav#menu #menu-nav li a {
 
 nav#menu #menu-nav li.current a,
 nav#menu #menu-nav li a:hover {
-    color: #ff6d00;
+    color: #ff5722;
 }
 
 /* ==================================================
@@ -249,13 +249,13 @@ nav#menu #menu-nav li a:hover {
 
 .title-page {
     text-align: center;
-    margin-bottom: 40px;
+    margin: 40px;
 }
 
 .title-page .title {
     font-size: 48px;
     margin: 0 0 10px 0;
-    color: #e65100;
+    color: #ff5722;
     font-weight: 400;
 }
 
@@ -901,6 +901,7 @@ footer .credits {
 
 .image-wrap {
     position: relative;
+    top: -20px;
     overflow: hidden;
     margin: 0 auto;;
     cursor: pointer;
